@@ -1,0 +1,16 @@
+name
+y
+seperator
+
+
+
+
+#### Important ####
+Please replace :
+=> [name] with the name you want to see in the header of the file
+
+=> [y] with the following options
+	- [y] if you want the year of creation in the header
+	- [ym] if you want the year/month of creation in the header
+
+=> [seperator] with the type of seperator you want or leave it blank
